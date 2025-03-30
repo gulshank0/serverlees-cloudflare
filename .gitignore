@@ -155,7 +155,10 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-
+git remote add origin git@github.com:gulshank0/serverlees-cloudflare.git
+git branch -M main
+git push -u origin main
+.vscode
 .vscode-test
 
 # yarn v2
